@@ -1,2 +1,2 @@
 #Javascript-Clock-Project
-Digital clock powered by JavaScript
+Digital clock powered by Vallina JavaScript
