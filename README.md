@@ -4,7 +4,7 @@ This is a small project I made that displays the digital time using vanilla Java
 
 **[link](https://bt521.github.io/javascript-clock-project/)**
 
-![clock-example](clock.png);
+![clock-example](clock.png)
 
 # Future Plans
 
